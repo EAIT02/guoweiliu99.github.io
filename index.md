@@ -25,7 +25,4 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Data Mining 
 - Machine Learning
 - Information Science
-<<<<<<< HEAD
 
-=======
->>>>>>> 935d2695316dfe772065d9306241d445a2a6d91f
